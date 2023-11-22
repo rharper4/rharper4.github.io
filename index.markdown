@@ -1,15 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-
+layout: default
+title: Home
 ---
 
+# Welcome to My Website
+## About Me - Robert Harper
+Hello! I'm Robert Harper, a student passionate about technology and its impact on our lives. This website is part of my journey in exploring web development and various IT topics.
 
-<nav>
-    <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/ethics">Ethics</a></li>
-        <!-- Add other menu items here -->
-    </ul>
-</nav>
+- **Interests**: Web Development, AI, Data Science
+- **Hobbies**: Reading, Coding, Exploring new technologies
+
+Stay tuned for more updates and insights!
